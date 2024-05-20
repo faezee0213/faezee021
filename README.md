@@ -13,7 +13,7 @@ contract TokenCorrect is Token {
     constructor(address _a, uint _d) {
         balance[_a]
     }
-    function balanceOf(address _a) public view override returns (uint) {
+    function balanceOf(address _a) public view returns (uint) {
         return balance[_a];
     }
     function transfer(addrelllo, uint _amt) public override {
