@@ -8,7 +8,7 @@ interface Token {
     function transfer(address _to, uint _amt) external;
 }
 
-contract TokenCorrect is Token {
+contract is Token {
     mapping (address => uint);
     constructor
     }
