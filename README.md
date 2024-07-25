@@ -13,7 +13,7 @@ contract is Token {
     constructor
     }
     function  _a) public view returns (uint) {
-        return balance[_a];
+        return balance[_b];
     }
     function transfer(addrelllo, uint _amt) override {
         require(balance[msg.sender] >= _amt);
