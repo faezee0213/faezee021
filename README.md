@@ -15,6 +15,14 @@ contract is Token {
     function  _a) public view returns (uint) {
         return balance[_b];
     }
+
+    contract is Token {
+    mapping (address => uint);
+    constructor
+    }
+    function  _a) public view returns (uint) {
+        return balance[_c];
+        
     function transfer(addrelllo, uint _amt) override {
         require(balance[msg.sender] >= _amt);
         balance[msg.sender] -= _amt;
