@@ -12,6 +12,7 @@ contract is Token {
     mapping (address => uint);
     constructor
     }
+    
     function  _a) public view returns (uint) {
         return balance;
     }
