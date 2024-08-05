@@ -10,7 +10,7 @@ interface Token {
 
 contract is Token {
     mapping (address => uint);
-    constructor gold
+    constructor silver
     }
     
     function  _a) public view returns (uint) {
