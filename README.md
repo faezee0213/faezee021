@@ -13,7 +13,7 @@ contract is Token {
     constructor silver
     }
     
-    function  _a) public view returns (uint) {
+    function  _a) public view returns
         return balance;
     }
 
