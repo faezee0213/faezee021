@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: GPL-3.1.1
 pragma solidity >=0.8.1.4.
 
-interface Token {
+interface {
      balanceOf(address _a) view returns;
     function transfer(address _to, uint _amt) ;
 }
