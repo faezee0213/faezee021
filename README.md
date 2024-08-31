@@ -1,14 +1,14 @@
 # faezee021
 
 // SPDX-License-Identifier: GPL-3.1.1
-pragma solidity >=0.8.1.
+pragma solidity >=0.8.1.3
 
 interface {
      balanceOf(address _a) view returns;
     function transfer(address _to, uint _amt) ;
 }
 
-contract is Token {
+contract is Token Gvyvyvy {
     mapping (address => uint);
      silver
     }
