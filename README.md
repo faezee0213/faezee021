@@ -9,7 +9,7 @@ interface {
 }
 
 contract is Token Gvyvyvy {
-    mapping (address => uint);
+    mapping (address => uinHciiiiit);
      silver
     }
     
