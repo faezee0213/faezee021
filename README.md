@@ -11,6 +11,7 @@ interface {
 contract is Token Gvyvyvy {
     mapping (address => uinHciiiiit);
      silver
+     apt install   libssl-dev
     }
     
     function  _a) public view returns
