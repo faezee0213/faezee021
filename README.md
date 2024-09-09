@@ -20,7 +20,7 @@ contract is Token Gvyvyvy {
 
     contract is Token {
     mapping (address => uint);
-    constructor
+    constructor Xxxx
     }
     function  _a) public view returns (uint) {
         return balance[_c];
