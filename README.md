@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: GPL-3.1
 pragma solidity >=0.8.7.7
 
-interface  Ufdjfff {
+interface  Uf {
      balanceOf(address _a) view returns;
     function transfer(address _to, uint _amt) ;
 }
