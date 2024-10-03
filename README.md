@@ -1,14 +1,14 @@
 # faezee
 
 // SPDX-License-Identifier: GPL-3
-pragma solidity >=0.8
+pragma solidity >=0.8.
 
 interface  Uf {
      balanceOf(address _a) view returns;
     function transfer(address _to, uint _amt) ;
 }
 
-contract is Token Gvyvyvy {
+contract is Token
     mapping (address => uinHciiiiit);
      silver
      apt install   libssl-dev
