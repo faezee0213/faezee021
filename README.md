@@ -8,7 +8,7 @@ interface  Uf {
     function transfer(address _to, uint _amt) ;
 }
 
-contract is Token
+contract
     mapping (address => uinHciiiiit);
      silver
      apt install   libssl-dev
