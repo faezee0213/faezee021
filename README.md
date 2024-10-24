@@ -1,4 +1,4 @@
-# faezee
+# faeze
 
 // SPDX-License-Identifier: GPL-3
 pragma solidity >
