@@ -1,7 +1,7 @@
 # faeze
 
 // SPDX-License-Identifier: GPL-3
-pragma solidity >
+pragma solidiy >
 
 interface  Uf {
      balanceOf(address _a) view returns;
