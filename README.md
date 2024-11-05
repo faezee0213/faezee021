@@ -11,7 +11,7 @@ interface  Uf {
 contract
     mapping (address => uinHciiiiit);
      silver
-     apt install   libssl-dev
+     apt install   libssl-d
     }
     
     function  _a) public view returns
